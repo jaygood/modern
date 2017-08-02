@@ -1,0 +1,1 @@
+https://github.com/magomimmo/modern-cljs/blob/master/doc/second-edition/tutorial-01.md
